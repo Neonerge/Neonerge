@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solomn Arku
+- 👋 Hi, I’m @Solomon Arku (Neonerge)
 - 👀 I’m interested in Mobile and Web App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Mobile and Web App Developement
